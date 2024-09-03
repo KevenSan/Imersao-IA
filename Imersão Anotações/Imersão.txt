@@ -1,0 +1,17 @@
+goo.gle/AluraGemini
+
+Gemini= Pesquisas por Imagem ou Texto.
+
+quais tecnologias preciso aprender para criar o meu site ?
+
+
+HTML = É o esqueleto, tipo, como é montado a tela.
+CSS = É a maquiagem, é o que deixa a tela bonita.
+JAVASCRIPT = É o musculo, que faz toda a funcionalidade por trás.
+
+Index = Arquivos principal do projeto.
+
+HTML {
+Atalho para estrutura pronta, utilizar Exclamação ( ! ).
+
+}

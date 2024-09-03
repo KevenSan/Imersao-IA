@@ -1,0 +1,5 @@
+HTML {
+- Index = Arquivos principal do projeto.
+- Atalho para estrutura pronta, utilizar Exclamação ( ! ).
+
+}
