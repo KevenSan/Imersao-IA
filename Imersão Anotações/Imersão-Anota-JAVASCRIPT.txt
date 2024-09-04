@@ -1,0 +1,37 @@
+JAVASCRIPT
+
+Em JavaScript, as variáveis são usadas para armazenar dados, como números, textos, objetos, etc. A linguagem oferece flexibilidade na declaração de variáveis, mas é importante entender os diferentes tipos para utilizar a linguagem de forma eficiente.
+
+Principais tipos de dados em JavaScript:
+
+Number: Representa números inteiros e de ponto flutuante.
+
+Exemplo: let idade = 30;, let altura = 1.75;
+String: Representa sequências de caracteres, ou seja, textos.
+
+Exemplo: let nome = "João";, let frase = 'Olá, mundo!';
+Boolean: Representa valores lógicos, verdadeiro ou falso.
+
+Exemplo: let estaChovendo = true;, let estaFrio = false;
+Null: Representa a ausência intencional de qualquer valor.
+
+Exemplo: let valor = null;
+Undefined: Representa uma variável que foi declarada, mas ainda não recebeu um valor.
+
+Exemplo: let x; (neste caso, x é undefined)
+Object: Representa uma coleção de propriedades e métodos. É usado para criar objetos personalizados.
+
+Exemplo: let pessoa = { nome: "Maria", idade: 25 };
+Symbol: Representa um valor único e imutável. É usado para criar propriedades únicas em objetos.
+
+Exemplo: let id = Symbol('meuId');
+BigInt: Representa números inteiros arbitrariamente grandes.
+
+Exemplo: let numeroGrande = 12345678901234567890n;
+Declaração de Variáveis:
+
+Existem três maneiras principais de declarar variáveis em JavaScript:
+
+var: Declara uma variável global ou local ao escopo da função.
+let: Declara uma variável local ao bloco de código onde foi declarada. É a forma mais utilizada atualmente.
+const: Declara uma constante, ou seja, um valor que não pode ser reatribuído após a inicialização.
